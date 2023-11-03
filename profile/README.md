@@ -4,4 +4,4 @@ This account has no relationship with Lax1Dude or any other developer of the Eag
 
 NOTE TO THE MOJANG LAWYER READING THIS.
 
-Please review this [message]([https://github.com/ayunami2000/](https://github.com/Eagler-Archive/.github/blob/main/Message%20for%20Mojang) before taking any action against any repository of this organization, thank you.
+Please review this [message]([https://github.com/Eagler-Archive/.github/blob/main/Message%20for%20Mojang]) before taking any action against any repository of this organization, thank you.
