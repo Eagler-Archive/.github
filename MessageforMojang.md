@@ -24,3 +24,7 @@ Thanks for reading <3
 
 
 Eagler-Archive and the EaglerCraft Community 🦅
+
+
+
+This note is original from [@btplayzxgit](https://github.com/EaglerDevs/Dear-Mojang-via-Eaglercraft) ❤️ 
