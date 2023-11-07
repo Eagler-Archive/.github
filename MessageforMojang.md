@@ -1,6 +1,6 @@
 # Dear Mojang,
 
-I'm sure "Eaglercraft" is a project that is at the top of your DMCA list. We (the Eagler-Archive team) are well aware that Minecraft costs around $30.
+I'm sure "Eaglercraft" is a project that is at the top of your DMCA list. We (the EaglerStorage team) are well aware that Minecraft costs around $30.
 
 
 And the idea of Minecraft is that children or adults have fun on its platform, right?
@@ -23,7 +23,7 @@ Eaglercraft's goal was never to pirate the game, but simply to port it to the br
 Thanks for reading <3
 
 
-Eagler-Archive and the EaglerCraft Community 🦅
+EaglerStorage and the EaglerCraft Community 🦅
 
 
 
